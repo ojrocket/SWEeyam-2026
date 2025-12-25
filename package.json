@@ -27,3 +27,9 @@
     "nodemon": "^3.0.2"
   }
 }
+{
+  "scripts": {
+    "build": "remix vite:build"
+  }
+}
+
